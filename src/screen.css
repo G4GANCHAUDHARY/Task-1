@@ -1,0 +1,28 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+
+.SecA,.SecB{
+    width:100%;
+}
+
+.list, .Image1, .Image2, .Text{
+    display: inline-block;
+    width: 49%;
+}
+
+.list{
+    vertical-align: top;
+}
+
+.Image1 img, .Image2 img{
+    width: 99%;
+}
+
+.Text {
+    vertical-align: top;
+    text-align: center;
+}
